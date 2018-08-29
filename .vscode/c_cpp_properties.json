@@ -1,0 +1,25 @@
+{
+    "name": "Win32",
+    "includePath": [
+        "${workspaceFolder}",
+        "F:/Visual Studio Code/MinGW install/mingw64/include",
+        "F:/Visual Studio Code/MinGW install/mingw64/x86_64-w64-mingw32/include"
+    ],
+    "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+    ],
+    "intelliSenseMode": "msvc-x64",
+    "browse": {
+        "path": [
+            "${workspaceFolder}",
+            "F:/Visual Studio Code/MinGW install/mingw64/include",
+            "F:/Visual Studio Code/MinGW install/mingw64/x86_64-w64-mingw32/include"  
+        ],
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": ""
+    },
+    "cStandard": "c11",
+    "cppStandard": "c++17"
+}
